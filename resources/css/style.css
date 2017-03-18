@@ -8,6 +8,11 @@ html {
   color: white;
 }
 
-.content {
+.content1 {
   color: black;
+}
+
+.foot {
+  display: block;
+  background-color: dimgrey;
 }
