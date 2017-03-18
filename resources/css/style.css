@@ -1,0 +1,13 @@
+html {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.hero {
+  background-image: url(resources/images/the-flatiron-building.png);
+  color: white;
+}
+
+.content {
+  color: black;
+}
